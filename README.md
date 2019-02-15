@@ -1,5 +1,5 @@
 # PS3Xploit-HAN
-![Screenshot](2.jpg)
+![Screenshot](2.png)
 
 ## PS3Xploit  (MINIWEB/BROWSER)
 **PS3Xploit  HAN**
