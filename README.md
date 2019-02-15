@@ -3,7 +3,7 @@
 
 ## PS3Xploit  (MINIWEB/BROWSER)
 **PS3Xploit  HAN**
-######POWERED BY miniweb
+###### POWERED BY miniweb
 * PS3 HAN TOOLS 
 * actidps_dumper
 * dbgpkg_enabler
